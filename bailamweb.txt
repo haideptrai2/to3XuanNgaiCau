@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hội Làng Ngãi Cầu 2025</title>
+</head>
+<body>
+    <header>
+        <h1 style="color: blue;"><center>Hội Làng Ngãi Cầu 2025</center></h1>
+        <nav>
+            <ul>
+                <li><a href="#gioithieu">Giới thiệu</a></li>
+                <li><a href="#lichtrinh">Lịch trình</a></li>
+                <li><a href="#hinhanh">Hình ảnh hội</a></li>
+		<li><a href="#hinhanhvat">Hình ảnh vật tại hội</a></li>
+		<li><a href="#video">Video</a></li>
+		<li><a href="#video vat">Video vật tại hội</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="gioithieu"><center>
+        <h2 style="color: blue;"><center>Giới thiệu về Hội Làng Ngãi Cầu</h2>
+<div class="hop">
+        <p>Đình Ngãi Cầu hiện thờ 5 vị Thần hoàng làng gồm: Nữ thần Đức Bản Thổ - vị nữ thần tối cổ của chế độ mẫu hệ trong xã hội nguyên thủy có từ khi thành lập làng; 4 vị Tả Tướng quân và Hữu Tướng quân của Thánh Tản Viên Sơn đã có công giúp Vua Hùng Duệ Vương (tức Vua Hùng thứ 18) đánh tan giặc Thục, bảo vệ và gìn giữ nước Văn Lang trong buổi đầu dựng nước.</br>Theo sử sách ghi chép lại, 4 vị Thánh sinh ngày 8 tháng 3 năm Giáp Tý (tức năm 298 trước Công nguyên) tại Quán làng Ngãi Cầu. Dân làng đã đùm bọc, nuôi dưỡng bốn Ngài trưởng thành và theo Ngài ra trận chống giặc.
+
+Sau khi dẹp yên giặc, các Ngài trở lại Ngãi Cầu ban yến cho dân làng, mở tiệc khao quân mừng chiến thắng đúng vào ngày mùng 8 tháng Giêng âm lịch.</br>Vì vậy, để tỏ lòng thành kính và tưởng nhớ công lao to lớn của Tứ vị Đức Thánh, dân làng Ngãi Cầu đã lấy ngày 8 tháng Giêng âm lịch hàng năm để mở hội. Cứ 5 năm một lần, địa phương sẽ tổ chức hội rước kiệu ngũ vị thần hoàng từ Đình lên Quán, rồi từ Quán quay trở về Đình.</p>
+</div>    
+</section>
+
+    <section id="lichtrinh"><center>
+        <h2 style="color: blue;"><center>Lịch trình Hội Làng</h2>
+        <table>
+	<table border="1" bgcolor="white">
+            <thead>
+                <tr>
+                    <th>Ngày</th>
+                    <th>Giờ</th>
+                    <th>Hoạt động</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>08/01/2025 (Âm lịch)</td>
+                    <td>Sáng: Từ 6:00 đến 12:00</br> Tối : Từ 18:00 đến 24:00</td>
+                    <td>Lễ rước kiệu</td>
+                </tr>
+                <tr>
+                    <td>09/01/2025 (Âm lịch)</td>
+                    <td>Cả ngày</td>
+                    <td>Các hoạt động văn hóa, thể thao (hát chèo, đấu vật,...)</td>
+                </tr>
+                <tr>
+                    <td>10/01/2025 (Âm lịch)</td>
+                    <td>Tối</td>
+                    <td>Bế mạc hội làng</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="hinhanh"><center>
+        <h2 style="color: blue;">Hình ảnh Hội Làng</h2>
+        <div class="gallery">
+<img src="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/479400016_939147711751302_2395754946021299496_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHbqsVaYoWzXD3ZquLjPXFy06GHKKbUplDToYcoptSmUO0LSsSFjzaCT1e1LsFjhsfOe5BhzRMgaFr0k12xOVuu&_nc_ohc=Qnr5EC5Y_H4Q7kNvgHqHS4n&_nc_oc=AdgFKsucQrD-w_NvRN26kamv9OLslewMN45e-y3b5YymC_d1QbkzgbJYCIVDqm_6yLA&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&oh=03_Q7cD1gFMHKwDGs883eEAWkUQPteEFJjNMFBdkmcK8STsgHdnnw&oe=67DFE35F" alt="Hình ảnh 1" width="300">            
+<img src="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/480613854_942041301375245_910888868875457984_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFkncK4xreSZXa0vZNH3Y4KPNq3SQX2UCw82rdJBfZQLJpbMDrWQjWL4bZFJvppi9p0svZWsYINw6ifGEVCBMsz&_nc_ohc=DlaWDpRX-dkQ7kNvgFP-tg0&_nc_oc=AdgdQhxkLPlSYjwqbdjvC9l1JqLWCixeozd3EcfODHT9mOCVjphMRozxO6T5wj6dArM&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&oh=03_Q7cD1gFqLFz52mCC6hrLILiZBhi1nm8M6RitBVMndO29DQkm2A&oe=67DC26C8" alt="Hình ảnh 2" width="300">
+<table class="picture">
+<tbody>
+<tr>
+<td class="pic">
+<img src="https://cdn.giaoducthoidai.vn/images/2558b157b0dd2fa70dca3778b5c71b02db971d8061093d21f70914310a98444a8879377a828f1fe983f8ae136e8844ac/hoi-5-490.jpg" alt="Hình ảnh 3" width="500" tittle="Cờ tướng là một trong các bộ môn tại lễ hội truyền thống làng Ngãi Cầu.">
+</tr>
+<tr>
+<td class="caption">
+<p class="caption">Cờ tướng là một trong các bộ môn tại lễ hội truyền thống làng Ngãi Cầu.</p>
+</td>
+</tr>
+</tbody>
+</table
+</div>
+    </section>
+<section id="hinhanhvat"><center>
+        <h2 style="color: blue;">Hình ảnh vật tại làng</h2>
+        <div class="gallery">
+<table class="picture"><center>
+<tbody>
+<tr>
+<td class="pic">
+<img src="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/480674786_4056176791333352_4203058192262635279_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=T8d_yS7ox8QQ7kNvgERg4if&_nc_oc=AdhYcVguyGMggDabu8ZDuquvRCUQgfm1GIXvqV0CUE2zyteflfVnYivESc3JE0zrz50&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&oh=03_Q7cD1gE4rSZOA4EJ67LoGpOOuOlkDkMas4_iWDwsX0d9lS6r3Q&oe=67E698BD" alt="Hình ảnh 3" width="600" tittle="Cờ tướng là một trong các bộ môn tại lễ hội truyền thống làng Ngãi Cầu.">
+</tr>
+<tr>
+<td class="caption">
+<p class="caption">Đúng 0h ngày mùng 8 tháng Giêng, tại Đình làng sẽ diễn ra nghi thức đánh</br> trống khai xuân, khai hội. Người được giao nhiệm vụ này phải là một cụ ông</br> khỏe mạnh, gia đình gia giáo, không vướng bụi và là người dân gốc của làng.</br>Khi từng tiếng trống khỏe khoắn được cất lên, tất cả cùng dõi theo để lắng nghe</br> và cầu mong một năm mới bình an cho muôn nhà.</p>
+<img src="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/479924642_982670349962709_6186510132993212502_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=L2YA1acK1GsQ7kNvgG4YKXD&_nc_oc=AdjuyO7hCmd3j1R4CrB1FcNGzcnHcsnhBcLImE8WwrJZ3V6EU566IofUx4aO-LQOHT8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fhan18-1.fna&oh=03_Q7cD1gEfJtUDr-rhDoENgM1NmcW7myxBl-5OXzM4yECvTNxL3Q&oe=67E6A231" alt="Hình ảnh 2" width="600">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </section>
+<section id="video"><center>
+<h2 style="color: blue;"><center>Dưới đây là một video quay toàn cảnh hội làng và khung cảnh rước kiệu<h2>
+<table class="picture"><center>
+<tbody>
+<tr>
+<td class="pic">
+<center><iframe width="670px" height="315" src="https://www.youtube.com/embed/4R-HiQVViIM?si=P-5Sreuhuwu6fmJW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p class="caption">Hội làng vào buổi sáng</p>
+</td>
+<td class="pic">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8S2d9hZj3B8?si=GcU-VCnuZaj3SX4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p class="caption">Hội làng vào buổi tối</p>
+</section>
+<section id="video vat"><center>
+<h3 style="color: blue;"><center>Dưới đây là video vật tại hội làng<h2>
+<center><iframe width="670px" height="315" src="https://www.youtube.com/embed/qTwteU7YJJk?si=PlrKELh01P-tl7lN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<footer>
+<ul>&copy Tổ 3</ul>
+</footer>
+<style>
+        body{
+            background-image : url("309.jpeg");
+            background-attachment: fixed;
+            background-size: cover;
+        }
+        p{
+        color: black;
+        background-color: rgb(255,255,255);
+        font-family: "Gorditas";
+        border-style: fixed;
+        border-radius: 5px;
+        }
+        .hop{
+            width: 670px;
+        }
+        </style>
+    <link rel="stylesheet" href="style.css">
+</body>
+</html>
